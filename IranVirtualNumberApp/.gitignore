@@ -1,0 +1,14 @@
+.android/
+.cache/
+.config/
+.gitconfig
+.lesshst
+.ssh/
+.termux/
+.wget-hsts
+Tasker-Permissions/
+boot_log.txt
+kali-fs/
+kali.sh
+start-kali.sh
+storage/
