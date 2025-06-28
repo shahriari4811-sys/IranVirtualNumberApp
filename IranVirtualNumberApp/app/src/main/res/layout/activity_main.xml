@@ -1,0 +1,38 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnGenerateNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="تولید شماره" />
+
+    <Button
+        android:id="@+id/btnSendSMS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ارسال پیامک" />
+
+    <Button
+        android:id="@+id/btnCall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="تماس" />
+
+    <Button
+        android:id="@+id/btnOrganizations"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="لیست سازمان‌ها" />
+
+    <Button
+        android:id="@+id/btnHelp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="راهنما / نکات ایمنی" />
+
+</LinearLayout>
